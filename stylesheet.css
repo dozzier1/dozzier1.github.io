@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Epokha LET';
+    src: url('EpokhaLetPlain.eot');
+    src: local('Epokha LET Plain:1.0'), local('EpokhaLetPlain'),
+        url('EpokhaLetPlain.eot?#iefix') format('embedded-opentype'),
+        url('EpokhaLetPlain.woff2') format('woff2'),
+        url('EpokhaLetPlain.woff') format('woff'),
+        url('EpokhaLetPlain.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

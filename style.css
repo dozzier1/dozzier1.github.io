@@ -1,0 +1,403 @@
+
+
+body {
+	color: var(--tg-theme-text-color);
+	background: black;
+	margin: 0;
+	padding: 0;
+	align-items: center;
+	font-size: 18px;
+}
+
+.container {
+	max-width: 420px;
+	height: 620px;
+	background-color: black;
+}
+.coin_tup{
+	max-width: 250px;
+	max-height: 250px;
+	padding-left: 70px;
+	padding-top: 20px;
+}
+.coin{
+	color: white;
+	font-family: "Epokha LET";
+	text-align: center;
+	margin-top: 100px;
+}
+.coin_hoard{
+	color: white;
+	font-family: "Epokha LET";
+	text-align: center;
+	margin-top: 200px;
+	margin-bottom: 0px;
+}
+.menu{
+	max-width: 50px;
+	max-height: 50px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+
+}
+.boost_noney{
+	max-width: 40px;
+	max-height: 40px;
+	padding-left: 5px;
+	padding-bottom: 15px;
+}
+.task{
+	max-width: 40px;
+	max-height: 40px;
+	padding-left: 5px;
+	padding-bottom: 15px;
+}
+.invite{
+	max-width: 40px;
+	max-height: 40px;
+	padding-left: 5px;
+	padding-bottom: 15px;
+}
+.top{
+	max-width: 40px;
+	max-height: 40px;
+	padding-left: 5px;
+	padding-bottom: 15px;
+}
+.coin_clear{
+	max-width: 40px;
+	max-height: 40px;
+	padding-left: 5px;
+	padding-bottom: 15px;
+}
+.walet{
+	max-width: 40px;
+	max-height: 40px;
+	padding-left: 5px;
+	padding-bottom: 15px;
+}
+.MoreCoins{
+	color: white;
+	font-family: "Epokha LET";
+	text-align: center;
+	margin-top: 10px;
+	font-size: 30px;
+}
+.TuskIcon{
+	max-width: 150px;
+	max-height: 150px;
+	padding-left: 20px;
+	padding-top: 0px;
+	float: left;
+}
+.CompleteTaskText{
+	color: white;
+	font-family: "CALPS";
+	padding-left: 180px;
+	margin-top: 70px;
+	margin-bottom: 40px;
+	font-size: 30px;
+	font-weight: 100;
+}
+.exit{
+	max-width: 100px;
+	max-height: 35px;
+	text-align: left;
+	margin-left: 20px;
+}
+.Daily_task{
+	color: white;
+	font-family: "CALPS";
+	margin-top: 10px;
+	margin-left: 25px;
+	margin-bottom: 0px;
+	font-size: 30px;
+	font-weight: 100;
+}
+.Rewerd_Task{
+	max-width: 300px;
+	max-height: 110px;
+	margin-left: 25px;
+}
+.joinComunity{
+	width: 300px;
+	height: 60px;
+	margin-left: 25px;
+	margin-bottom: 2px;
+	
+}
+.YourFriends{
+	color: white;
+	font-family: "Epokha LET";
+	text-align: center;
+	margin-top: 10px;
+	font-size: 27px;
+}
+.FrendsIcon{
+	max-width: 100px;
+	max-height: 100px;
+	padding-left: 0px;
+	padding-top: 0px;
+	float: right;
+	margin-right: 20px;
+}
+.CompleteFriendsText{
+	color: white;
+	font-family: "CALPS";
+	padding-left: 40px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	font-size: 32px;
+	font-weight: 100;
+}
+.InvFriends{
+	width: 340px;
+	height: 90px;
+	margin-left: 35px;
+	margin-bottom: 5px;
+}
+.invaitFrendsButton{
+	width: 250px;
+	height: 70px;
+	margin: 10px auto 20px;
+    display: block;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.copyLink{
+	width: 32px;
+	height: 30px;
+	float: right;
+	margin-right: 70px;
+	margin-top: 0px;
+}
+.Daily_friends{
+	color: white;
+	font-family: "CALPS";
+	margin-top: 10px;
+	margin-left: 37px;
+	margin-bottom: 0px;
+	font-size: 30px;
+	font-weight: 100;
+}
+.FiendsList{
+	width: 350px;
+	height: 50px;
+	margin-left: 25px;
+	margin-top: 5px;
+	
+	
+}
+.reward_div{
+	display: block;
+	position: fixed;
+	z-index: 8888;
+	background: linear-gradient(45deg,#b78844,#f4f1be);
+	width: 400px;
+	height: 620px;
+	margin-top: 105px;
+	border-radius: 30px 30px 0px 0px;
+	
+	
+}
+.Daily_bonus{
+	text-align: center;
+	font-family: "Epokha LET";
+	font-size: 30px;
+	color: #FFFFFF;
+	text-shadow: 
+		-0   -2px 0   #C18E26,
+		 0   -2px 0   #C18E26,
+		-0    2px 0   #C18E26,
+		 0    2px 0   #C18E26,
+		-2px -0   0   #C18E26,
+		 2px -0   0   #C18E26,
+		-2px  0   0   #C18E26,
+		 2px  0   0   #C18E26,
+		-1px -2px 0   #C18E26,
+		 1px -2px 0   #C18E26,
+		-1px  2px 0   #C18E26,
+		 1px  2px 0   #C18E26,
+		-2px -1px 0   #C18E26,
+		 2px -1px 0   #C18E26,
+		-2px  1px 0   #C18E26,
+		 2px  1px 0   #C18E26,
+		-2px -2px 0   #C18E26,
+		 2px -2px 0   #C18E26,
+		-2px  2px 0   #C18E26,
+		 2px  2px 0   #C18E26,
+		-2px -2px 0   #C18E26,
+		 2px -2px 0   #C18E26,
+		-2px  2px 0   #C18E26,
+		 2px  2px 0   #C18E26;
+}
+.Calendar_Icon{
+	max-width: 100px;
+	max-height: 100px;
+	padding-left: 20px;
+	padding-top: 0px;
+	float: left;
+}
+.Daily_bonus_Text{
+	font-family: "CALPS";
+	font-size: 30px;
+	font-weight: 800;
+	margin-top: 50px;
+	margin-left: 150px;
+	color: #FFFFFF;
+	margin-bottom: 50px;
+	text-shadow: 
+		-0   -2px 0   #000000,
+		 0   -2px 0   #000000,
+		-0    2px 0   #000000,
+		 0    2px 0   #000000,
+		-2px -0   0   #000000,
+		 2px -0   0   #000000,
+		-2px  0   0   #000000,
+		 2px  0   0   #000000,
+		-1px -2px 0   #000000,
+		 1px -2px 0   #000000,
+		-1px  2px 0   #000000,
+		 1px  2px 0   #000000,
+		-2px -1px 0   #000000,
+		 2px -1px 0   #000000,
+		-2px  1px 0   #000000,
+		 2px  1px 0   #000000,
+		-2px -2px 0   #000000,
+		 2px -2px 0   #000000,
+		-2px  2px 0   #000000,
+		 2px  2px 0   #000000,
+		-2px -2px 0   #000000,
+		 2px -2px 0   #000000,
+		-2px  2px 0   #000000,
+		 2px  2px 0   #000000;
+
+}
+.days_bonus{
+	
+	font-family: "CALPS";
+	font-size: 20px;
+	font-weight: 800;
+	margin-left: 60px;
+	padding-left: 10px;
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: #FFFFFF;
+	text-shadow: 
+		-0   -1px 0   #000000,
+		 0   -1px 0   #000000,
+		-0    1px 0   #000000,
+		 0    1px 0   #000000,
+		-1px -0   0   #000000,
+		 1px -0   0   #000000,
+		-1px  0   0   #000000,
+		 1px  0   0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000;
+}
+.bonus_img{
+	font-family: "CALPS";
+	font-size: 20px;
+	font-weight: 800;
+	margin-left: 60px;
+	
+	display: inline-block;
+	color: #FFFFFF;
+	width: 50px;
+	height: 50px;
+}
+.bonus_img2{
+	font-family: "CALPS";
+	font-size: 20px;
+	font-weight: 800;
+	margin-left: 50px;
+	
+	display: inline-block;
+	color: #FFFFFF;
+	width: 50px;
+	height: 50px;
+}
+.days_bonus1{
+	font-family: "CALPS";
+	font-size: 20px;
+	font-weight: 800;
+	margin-left: 40px;
+	padding-left: 10px;
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: #FFFFFF;
+	text-shadow: 
+		-0   -1px 0   #000000,
+		 0   -1px 0   #000000,
+		-0    1px 0   #000000,
+		 0    1px 0   #000000,
+		-1px -0   0   #000000,
+		 1px -0   0   #000000,
+		-1px  0   0   #000000,
+		 1px  0   0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000;
+}
+.bonus_img3{
+	font-family: "CALPS";
+	font-size: 20px;
+	font-weight: 800;
+	margin-left: 40px;
+	
+	display: inline-block;
+	color: #FFFFFF;
+	width: 50px;
+	height: 50px;
+}
+.bonus_img4{
+	font-family: "CALPS";
+	font-size: 20px;
+	font-weight: 800;
+	margin-left: 35px;
+	
+	display: inline-block;
+	color: #FFFFFF;
+	width: 50px;
+	height: 50px;
+}
+.bonus_img5{
+	font-family: "CALPS";
+	font-size: 20px;
+	font-weight: 800;
+	margin-left: 30px;
+	
+	display: inline-block;
+	color: #FFFFFF;
+	width: 50px;
+	height: 50px;
+}
+.bonus_img6{
+	font-family: "CALPS";
+	font-size: 20px;
+	font-weight: 800;
+	margin-left: 55px;
+	
+	display: inline-block;
+	color: #FFFFFF;
+	width: 50px;
+	height: 50px;
+}
+.combeck_reward{
+	width: 200px;
+	height: 50px;
+	margin-left: 100px;
+}
